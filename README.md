@@ -1,4 +1,4 @@
-# Assignment-1.1-Blog-Post
+# Blog-Post
 This is my first assignment in web design.
 
 Blog Post Output
